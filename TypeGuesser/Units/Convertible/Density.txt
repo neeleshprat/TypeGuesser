@@ -1,0 +1,4 @@
+"kilogramPerCubicMetre"|"kg·m−3","kg/m³","kg/m3","kg·m","kilogram per cubic metre","κυβικό μέτρο","μ3"
+"kilogramPerLitre"|"kg/l","kg/L","kilogram per litre"|1000.0
+"gramPerCubicCentimetre"|"g/cc","g/cm3","g/cm³","gram per cubic centimetre"|1000.0
+"gramPerMillilitre"|"g/ml","g/mL","gram per millilitre"|1000.0

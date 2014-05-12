@@ -1,0 +1,14 @@
+"squareMetre"|"square metre","m2","m²","μ2","μ²","τ.μ.","τετραγωνικό μέτρο"
+"squareMillimetre"|"mm2","mm²","square millimetre","μμ2","μμ²"|1.0E-6
+"squareCentimetre"|"cm2","cm²","square centimetre"|0.0001
+"squareDecimetre"|"dm2","square decimetre"|0.01
+"squareDecametre"|"dam2","square decametre"|0.1
+"squareHectometre"|"hm2","square hectometre","στρέμμα","στρέμματα"|10000.0
+"squareKilometre"|"km²","km2","sqkm","square kilometre","km\u00B2","τετρ. χιλ.","χλμ2","χλμ²"|1000000.0
+"hectare"|"ha","hectare","εκτάρια"|10000.0
+"squareInch"|"sqin","square inch", "sq in"|0.00064516
+"squareFoot"|"sqft","ft2","ft²","square foot", "sq ft"|0.09290304
+"squareYard"|"sqyd","square yard", "sq yd"|0.83612736
+"acre"|"acre","acres","Έικρ"|4046.8564224
+"squareMile"|"sqmi","mi2","mi²","square mile","τετραγωνικά μίλια"|2589988.110336
+"squareNauticalMile"|"sqnmi","nmi2","square nautical mile"|3429904.0

@@ -1,0 +1,4 @@
+"newtonMetre"|"Nm","N.m","N·m", "newton metre"
+"newtonMillimetre"|"Nmm","newton millimetre"|0.001
+"newtonCentimetre"|"Ncm","newton centimetre"|0.001
+"poundFoot"|"ftlb-f", "ftlbf", "lbft"|1.3558179483314

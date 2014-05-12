@@ -1,0 +1,4 @@
+"cubicMetrePerSecond"|"m\u00B3/s","m³/s","cubic metre per second"
+"cubicFeetPerSecond"|"ft\u00B3/s","ft³/s","cuft/s","cubic feet per second"|0.028316846593
+"cubicMetrePerYear"|"m\u00B3/y","m³/y","cubic metre per year"|3.1709791983765E-8
+"cubicFeetPerYear"|"ft\u00B3/y","ft³/y","cubic feet per year"|8.9792131512047E-10
